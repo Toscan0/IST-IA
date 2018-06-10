@@ -11,8 +11,6 @@
 ; This is not an official file, use it at your own risk. 
 
 
-;(defun isObstaclep
-;	)
 (defun orderlistofcoordinates (coordlist)
   ;; order list of coordinates
   (stable-sort (copy-alist coordlist)
